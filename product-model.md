@@ -1,3 +1,67 @@
+
+# What is a product model?
+
+Building a product model is hard.  It is NOT a one person job.  It requires insight from the client and the team as a
+whole.
+
+## Business Rules
+
+* The product model is a collection of well considered business rules.
+* Business rules are powerful.  They should be considered carefully before inclusion. 
+* Reconfiguration of business rules can produce cubic increases in time to market.
+* Business rules can be mutually exclusive and therefore should be carefully considered. 
+
+## Market Fit
+
+Business rules alone cannot determine the final shape of the product.  Consumer behavior, understanding and acceptance
+all play a part in the product model.  Some business rules just will not work in some classifications of the market and
+will in others. 
+
+Determining market fit is traditional and important part of the business process, and more so now.  Questions like 
+what is the public appetite for the idea? and what is the Problem being solved? can cause major changes to the business
+rules if answered incorrectly or if the answers change down the track.
+
+Whatever the case may be, certain business rules maybe have to be added, removed or adjusted to fit the product to the 
+market.  This could cause a cascade of changes in the product model.
+
+* Business rules do not exist in a vacuum.
+
+## Technology fit
+
+Technology is the method by which your product will manifest itself in the market.  
+
+It can also be thought of as an "automation model".
+
+If your business model dictates an outcome that the technology just cannot deliver then that business rule will require some consideration.  
+
+As with market fit considerations a technology mismatch this can lead to a cascade failure of the business rules.
+
+Ostensibly technological fit is less about actual technology and more capability. Sometimes we are talking tech, 
+sometimes it could be a 100 monkeys locked in a room with typewriters.  
+
+Both are a form of automation.
+
+Both provide a capability.
+
+Both are scalable. 
+
+Both require no extrodinary skill on the part of the business entity.  
+
+All that matters is what can be done and what cannot be done and how that fits the product model and the market.
+
+* Business rules do not exist in a vacuum.
+
+
+# TOOLS
+
+ZDOF
+Extinction Grids
+Pyramid of death
+
+
+delet eeverything below this....?
+
+
 # INTRODUCTION - This page is unfinished
 
 The purpose of vision is to take the idea proposition of the client and form it into 
@@ -73,18 +137,12 @@ This process must consider 3 things.
 3. The Zeitgeist
  
 ### Technology
-This is less actual technology and more capability. Sometimes we are talking tech, sometimes it could be a 100 monkeys
-locked in a room with typewriters.  Both are a form of automation, both provide a capability, both are scalable,
-both require no extrodinary special skill on the part of the business entity.  All that matters is what can be done and
-what cannot be done and how that fits the business model and the market.
 
 ### The Business Model
 Plain and simple. How is this idea going to be monetized.
 
 ### The Zeitgeist
-Meaning the ghost of the times it is made up of things like Market Fit, Public Appitite for the idea, The Problem 
-being solved and other subjective ideas.
- 
+
 ## The Golden Halo
 
 If you imagine these 3 ideas represented by a Zen Diagram.  Inside each ring of the diagram you write the pros
