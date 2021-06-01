@@ -68,6 +68,20 @@ The most important tool by far is to talk to people.  Team members, customers, r
 
 The term takes its name from an allegory, the "Byzantine Generals Problem", developed to describe a situation in which, in order to avoid catastrophic failure of the system, the system's actors must agree on a concerted strategy, but some of these actors are unreliable.
 
+The goal is that all honest actors help in reaching a consensus regarding the state of the system using the majority rule.
+A practical Byzantine Fault Tolerant system can function on the condition that the maximum number of malicious actors must not be greater than or equal to one-third of all the nodes in the system. As the number of actors increase, the system becomes more secure.
+
+Byzantine fault tolerance can be achieved if the correctly working actors in the network reach an agreement on their values. There can be a default vote value given to missing messages i.e., we can assume that the message from a particular actor is ‘faulty’ if the message is not received within a certain time limit. Furthermore, we can also assign a default response if the majority of nodes respond with a correct value.
+
+Types of Byzantine Failures:
+There are two categories of failures that are considered. One is fail-stop(in which the node fails and stops operating) and other is arbitrary-node failure. Some of the arbitrary node failures are given below :
+
+Failure to return a result
+Respond with an incorrect result
+Respond with a deliberately misleading result
+Respond with a different result to different parts of the system
+
+
 ## Use Tools
 
 * ZDOF
