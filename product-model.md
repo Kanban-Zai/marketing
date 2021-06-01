@@ -8,7 +8,7 @@ whole.
 
 * The product model is a collection of well considered business rules.
 * Business rules are powerful.  They should be considered carefully before inclusion. 
-* Reconfiguration of business rules can produce cubic increases in time to market.
+* Reconfiguration of business rules can produce exponential increases in time to market.
 * Business rules can be mutually exclusive and therefore should be carefully considered. 
 
 ## Market Fit
