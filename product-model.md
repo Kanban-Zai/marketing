@@ -62,9 +62,21 @@ Hopefully simple and self consistient.
 
 ## Conversation
 
-The most important tool by far is to talk to people.  Team members, customers, randoms.  Just ask questions.  Gather information. As much as possible. The more the better, but at least enough to allow a consensus to be gained.  These ideas must pass a basic reasonableness test.  The exact test will depend on your situation, but should include desirability, feasability, and viability questions.
+The most important tool by far is to talk to people.  Team members, customers, randoms.  Just ask questions.  
 
-The output of the meany conversations you will have is a shortlist of ideas.
+By this point you as an individual should have done this sort of stuff -> https://info.boardofinnovation.com/hubfs/Validation%20Guide%20compressed.pdf as much as you feel you need to to be able to participate in a conversation.
+
+But that level of detail does not belong here.  Here we keep it simple. Here we rely on your insights and intuition as a person.  We rely on individuals to use the power of their brain, which no computer can ever match, and contribute their own unique perspective.
+
+Gather information. 
+
+As much as possible. 
+
+The more the better, but at least enough to allow a consensus to be gained.  
+
+These ideas must pass a basic reasonableness test.  The exact test will depend on your situation, but should include desirability, feasability, and viability questions.
+
+The output of the many conversations you will have is a shortlist of ideas.
 
 ## Fault Tolerant Consensus
 
@@ -80,14 +92,7 @@ Consensus is achieved by all parties casting 3 votes.  They can cast 1 vote to 3
 
 The idea with the most votes wins.
 
-There are 3 types of failure
-
-Sock Puppetry
-   Also known as sybil attacks
-
-
-Selection Bias
-   When there is bias in the group that shifts all votes to one idea and almost completley sanctions one idea.  Remember these ideas had to pass reasonablity tests to get to this point.   So something went wrong in the conversation stage or more than 1 third of your voting parties are unreliable.
+There is only one way to truely fail and that is selection bias.  This happens when there is bias in the group that shifts all votes to one idea and almost completley sanctions one idea.  Remember these ideas had to pass reasonablity tests to get to this point.   So something went wrong in the conversation stage or more than 1 third of your voting parties are unreliable.
    
 
 ## Use Tools
