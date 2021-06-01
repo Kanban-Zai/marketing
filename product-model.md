@@ -82,7 +82,7 @@ The output of the many conversations you will have is a shortlist of ideas.
 
 In order to avoid catastrophic failure of the product model, the parties involved must achieve consensus about the ideas produced in the "Conversation" step. 
 
-It is but assumed some of the parties are unreliable, but that the number of unreliable parties is less than one third of all parties involved.
+It is assumed some of the parties are unreliable, but that the number of unreliable parties is less than one third of all parties involved.
 
 As the number of parties increase, the system becomes more reliable.
 
@@ -92,8 +92,19 @@ Consensus is achieved by all parties casting 3 votes.  They can cast 1 vote to 3
 
 The idea with the most votes wins.
 
-There is only one way to truely fail and that is selection bias.  This happens when there is bias in the group that shifts all votes to one idea and almost completley sanctions one idea.  Remember these ideas had to pass reasonablity tests to get to this point.   So something went wrong in the conversation stage or more than 1 third of your voting parties are unreliable.
-   
+There is only one way to truely fail and that is selection bias.  Selection bias is a form of "Sock Puppetry" where one voice or a small covern of voices is effectivley controlling the majority.
+
+The test for selection bias is the vote count shifts all votes overwhelmingly to one idea, upward of the [Selection Bias] Kanban-Zai setting.  
+
+Remember all of these ideas had to pass reasonability test to get to this point.
+
+The team now has to make 1 of 3 choices...
+1 The resonableness test in conversation stage failed to catch a problem and modify it.
+2 The idea is so obviously the best idea anybody has ever had and run with it.
+3 More than 1 third of your voting parties should be considered unreliable.
+
+At this point you are in a Hedgemony as opposed to the Democracy. Kanban-Zai will not work for you and you must stop using Kanban-Zai.
+
 
 ## Use Tools
 
