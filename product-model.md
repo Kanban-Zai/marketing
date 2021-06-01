@@ -62,25 +62,33 @@ Hopefully simple and self consistient.
 
 ## Conversation
 
-The most important tool by far is to talk to people.  Team members, customers, randoms.  Just ask questions.  Gather information. As much as possible. The more the better, but at least enough to allow a consensus to be gained.
+The most important tool by far is to talk to people.  Team members, customers, randoms.  Just ask questions.  Gather information. As much as possible. The more the better, but at least enough to allow a consensus to be gained.  These ideas must pass a basic reasonableness test.  The exact test will depend on your situation, but should include desirability, feasability, and viability questions.
 
-## Byzantine Fault Tolerance
+The output of the meany conversations you will have is a shortlist of ideas.
 
-The term takes its name from an allegory, the "Byzantine Generals Problem", developed to describe a situation in which, in order to avoid catastrophic failure of the system, the system's actors must agree on a concerted strategy, but some of these actors are unreliable.
+## Fault Tolerant Consensus
 
-The goal is that all honest actors help in reaching a consensus regarding the state of the system using the majority rule.
-A practical Byzantine Fault Tolerant system can function on the condition that the maximum number of malicious actors must not be greater than or equal to one-third of all the nodes in the system. As the number of actors increase, the system becomes more secure.
+In order to avoid catastrophic failure of the product model, the parties involved must achieve consensus about the ideas produced in the "Conversation" step. 
 
-Byzantine fault tolerance can be achieved if the correctly working actors in the network reach an agreement on their values. There can be a default vote value given to missing messages i.e., we can assume that the message from a particular actor is ‘faulty’ if the message is not received within a certain time limit. Furthermore, we can also assign a default response if the majority of nodes respond with a correct value.
+It is but assumed some of the parties are unreliable, but that the number of unreliable parties is less than one third of all parties involved.
 
-Types of Byzantine Failures:
-There are two categories of failures that are considered. One is fail-stop(in which the node fails and stops operating) and other is arbitrary-node failure. Some of the arbitrary node failures are given below :
+As the number of parties increase, the system becomes more reliable.
 
-Failure to return a result
-Respond with an incorrect result
-Respond with a deliberately misleading result
-Respond with a different result to different parts of the system
+The goal is that all honest parties help in reaching a consensus using the majority rule.
 
+Consensus is achieved by all parties casting 3 votes.  They can cast 1 vote to 3 different ideas or 3 votes to one idea.  It is up to the individual party.
+
+The idea with the most votes wins.
+
+There are 3 types of failure
+
+Sock Puppetry
+   Also known as sybil attacks
+
+
+Selection Bias
+   When there is bias in the group that shifts all votes to one idea and almost completley sanctions one idea.  Remember these ideas had to pass reasonablity tests to get to this point.   So something went wrong in the conversation stage or more than 1 third of your voting parties are unreliable.
+   
 
 ## Use Tools
 
