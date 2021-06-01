@@ -56,6 +56,8 @@ All that matters is what can be done and what cannot be done and how that fits t
 
 # What does a product model look like
 
+Hopefully simple and self consistient.
+
 # How do you build a product model
 
 ## Conversation
