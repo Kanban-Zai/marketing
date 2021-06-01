@@ -52,14 +52,30 @@ All that matters is what can be done and what cannot be done and how that fits t
 * Business rules do not exist in a vacuum.
 
 
-# TOOLS
-
-ZDOF
-Extinction Grids
-Pyramid of death
 
 
-delet eeverything below this....?
+# What does a product model look like
+
+# How do you build a product model
+
+## Conversation
+
+The most important tool by far is to talk to people.  Team members, customers, randoms.  Just ask questions.  Gather information. As much as possible. The more the better, but at least enough to allow a consensus to be gained.
+
+## Byzantine Fault Tolerance
+
+The term takes its name from an allegory, the "Byzantine Generals Problem", developed to describe a situation in which, in order to avoid catastrophic failure of the system, the system's actors must agree on a concerted strategy, but some of these actors are unreliable.
+
+## Use Tools
+
+* ZDOF
+* Extinction Grids
+* Pyramid of death
+
+
+
+
+delete everything below this....?
 
 
 # INTRODUCTION - This page is unfinished
