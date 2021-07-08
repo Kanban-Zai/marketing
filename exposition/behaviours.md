@@ -31,7 +31,7 @@ evidence for such action, decision or outcome.  Don't do it.  You will be glad y
 
 #### SANCTIONS
 
-A audit is not a punishment or a reward.  It is a record of a team member deviating from the team norms or going 
+A journal is not a punishment or a reward.  It is a record of a team member deviating from the team norms or going 
 out of bounds of a card or breaking the bounds of Kanban-Zai in some fashion.  
 
 This is neither a good or bad thing by itself.  For example many experienced developers break protocol all the time

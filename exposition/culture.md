@@ -35,7 +35,7 @@ neafarious.  Inaction can let these behaviours take on a life of their own so ac
 must not be personal.  Personally calling out a person on such behaviours are actually an attack on the team as they 
 build resentment.
 
-The Kanban-Zai way to deal with both situations is to record a audit.
+The Kanban-Zai way to deal with both situations is to record a journal.
 
 
 ## Other non audital behaviours that are more appropriatley addressed through team norms.
